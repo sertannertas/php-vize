@@ -1,0 +1,60 @@
+body{
+	background-image: url("bg.jpg");
+	background-repeat: no-repeat;
+
+}
+.buton{
+
+	width: 200px; 
+	height: 40px;
+	background-color: black;
+	font-weight: bold;
+	font-size: 20px;
+	color: white;
+	border-radius: 25px;
+}
+.buton:hover{
+	background-color: red;
+}
+.Abaşlık{
+	font-weight: bold;
+	font-size: 40px;
+}
+.baslik{
+	font-weight: bold;
+	font-size: 20px;
+
+}
+.tablo{
+
+	margin-left: 670px;
+	margin-top: 70px;
+border-style: solid;
+border-color:black;
+border-radius: 8px;
+}
+.msj{
+	margin-left: 670px;
+	font-weight: bold;
+	font-size: 20px;
+}
+.link{
+	color: black;	
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 25px;
+
+}
+.link:hover{
+	color: red;
+}
+tr{
+	background-color: pink;
+}
+.txtarea{
+	background-color: lightblue;
+	color: black;
+	font-weight: bold
+	border-radius:15px;
+	border-style: solid;
+}
